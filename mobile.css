@@ -114,9 +114,20 @@ margin-top: 24px;
   .section-portifolio-grid{
   
     row-gap: 36px;
-    grid-template-columns: auto;
-    margin-top: 24px;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+    margin-top: 40px;
     }
+    .section-portifolio-card{
+      width: 46vw;
+      height: auto;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin-top: 10px;
+      padding: 204px 0px;
+      }
     .section-abilities{
    
       align-items:flex-start;
@@ -139,4 +150,17 @@ margin-top: 24px;
   height: auto;
   padding-top: 16px;
   }
+  .section-portifolio-card-icon-image{
+    width: 40px;
+    height: auto;
+   }
+  }
+  .section-portifolio-card-links{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-between;
+    width: 40%;
+    height: auto;
+    padding: 10px;
 }
