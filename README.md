@@ -8,7 +8,7 @@ The main goal is create a website with my professional information.
 <img src="https://github.com/NataliaFonseca1/SITEPORTIFOLIO/blob/branch2/preview.png" height="500">
 
 ## Live Link:
-
+https://nataliafonseca1.github.io/SITEPORTFOLIO/
 
 ## Main concepts applied
 
