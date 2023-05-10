@@ -7,6 +7,9 @@ The main goal is create a website with my professional information.
 
 <img src="https://github.com/NataliaFonseca1/SITEPORTIFOLIO/blob/branch2/preview.png" height="500">
 
+## Live Link:
+
+
 ## Main concepts applied
 
 -Flexbox
@@ -19,7 +22,7 @@ The main goal is create a website with my professional information.
 
 1. Clone the project:
 
-git clone https://github.com/NataliaFonseca1/SITEPORTIFOLIO.git
+git clone https://github.com/NataliaFonseca1/SITEPORTFOLIO.git
 
 2. After clone open the folder:
 
